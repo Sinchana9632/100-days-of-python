@@ -16,5 +16,4 @@ def two_sum(nums, target):
             return [hashmap[diff], i]
         hashmap[num] = i
 
-# Example test
-print(two_sum([2, 7, 11, 15], 9))
+print(two_sum([2,7,11,15], 9))
