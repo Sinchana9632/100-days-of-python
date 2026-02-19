@@ -6,7 +6,7 @@ if __name__ == '__main__':
     print(i)
     print(j)
     
-#day 04 - thursday
+#day 04 - thursday feb
 
 #Task
 #The provided code stub reads two integers,  and , from STDIN.
